@@ -24,7 +24,7 @@
 <property name="sonar.projectVersion" value="1.0" />
 <property name="sonar.sources" value="src" />
 <property name="sonar.java.binaries" value="target" />
-<property name="sonar.java.libraries" value="lib/sonarqube-ant-task-2.6.0.1426.jar" />
+<property name="sonar.java.libraries" value="lib/*.jar" />
 
  
 <!-- Define SonarScanner for Ant Target -->
